@@ -1,4 +1,4 @@
 # health_checks
 Scripts that check the health of the computer
 
-Repo for checks.
+Repo for checks
